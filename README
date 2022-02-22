@@ -1,0 +1,5 @@
+This repository contains the code from my 2017 paper:
+
+N. Holschuh, B. R. Parizek, R. B. Alley, S. Anandakrishnan, Decoding ice sheet behavior using englacial layer slopes. Geophysical Research Letters. 44, 5561–5570 (2017).
+
+I am still making sure this has all the dependencies required, but this is my first step in trying to make the code public and useful for folks who may want to do similar analysis. Apologies for any errors that come up -- feel free to contact me if so!
