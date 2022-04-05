@@ -126,7 +126,6 @@ cice = 1.68*10^8;
 if plotter == 1
     subplot(3,4,[1 2 3 5 6 7 9 10 11])
     if exist('max_frequency') == 1 & abs(data_y(2)-data_y(1)) < 1e-4
-        cice_import
         imagesc(dist,data_y*cice/2,Data);
     else
         imagesc(dist,data_y,Data)
